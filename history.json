@@ -1,0 +1,10 @@
+{
+    "test_nou.txt": [
+        "File uploaded",
+        "File read",
+        "File edited",
+        "File read",
+        "File downloaded",
+        "Renamed from test.txt to test_nou.txt"
+    ]
+}
